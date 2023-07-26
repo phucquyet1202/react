@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "san Pham a",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "san Pham b",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "san Pham c",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "name": "san Pham d",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "san pham update",
+      "price": 900
+    }
+  ]
+}
